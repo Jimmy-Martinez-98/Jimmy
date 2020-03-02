@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", e=>{
 
   });
 function moda(){
-  let datos = document.querySelector("#txtDatos")
+  let valores = document.querySelector("#txtDatos").Value;
 }
 
 });
